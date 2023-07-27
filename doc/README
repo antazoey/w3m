@@ -72,8 +72,8 @@ HP-UX
 	If you are using gcc, no option is needed. 
 
 OS/2
-	You can compile w3m using emx. First you have to do
-	is to compile GC library with
+	You can compile w3m using emx. First compile GC 
+	library with
 
 		cd gc
 		make -f EMX_MAKEFILE
